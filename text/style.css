@@ -1,0 +1,61 @@
+body {
+ background-color: #FFF;
+ /* max-width: 75%; */
+}
+
+.header {
+ background-color: #B73C00;
+ font-size: 25px;
+ position: fixed;
+ width: 100%;
+ z-index: 1000;
+ y-overflow: auto;
+ top: 0px;
+ left: 0px;
+}
+
+.welcome {
+  background: url(https://i.kinja-img.com/gawker-media/image/upload/b3goggv5rb4zsefwyj6w.jpg) no-repeat center center;
+  background-size: 100% 450px;
+  height: 450px;
+  width: 101%;
+  left: -10px;
+  position: relative;
+} 
+
+.welcome h1 {
+  position: relative;
+  top: 215px;
+  text-align: center;
+  color: #F0F0F0;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  font-size: 70px;
+  margin-top: 0;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+}
+
+ul {
+ margin: 10px auto;
+ text-align: left;
+}
+
+li {
+ display: inline-block;
+ font-family: 'Oswald', sans-senrif; 
+ font-size: 25px;
+ font-weight: 300;
+ color: #FAFAFA;
+ text-transform: uppercase;
+ padding: 15px 20px;
+/* border: 1px solid #000;
+ border-radius: 5%; /*
+}
+
+h1 {
+}
+
+a{
+ font-color: #FAFAFA;
+}
